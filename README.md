@@ -4,7 +4,7 @@
 
 I'm a B.Tech Electrical Engineering graduate building my career around **DevOps, Cloud, Linux, CI/CD and infrastructure automation**.
 
-My interest in DevOps became practical during my internship at **Avinya Technologies**, where I worked with Linux servers, application deployments, CI/CD pipelines, Docker, Nginx, AWS and PostgreSQL across Dev, UAT and Production environments.
+My interest in DevOps became practical during my internship at **Avinya Technologies**, where I worked with Linux servers, application deployments, CI/CD pipelines, Docker, Nginx, AWS and PostgreSQL across **Dev, UAT and Production** environments.
 
 Alongside my internship experience, I built **NOVAORA**, an independent e-commerce project where I worked through the complete journey of running an application — from infrastructure and containers to CI/CD, security checks, deployment, monitoring and rollback.
 
@@ -53,14 +53,14 @@ The application uses **React for the frontend, FastAPI for the backend, and Post
 The project covers:
 
 - Infrastructure provisioning with **Terraform**.
-- AWS networking and compute using VPC and EC2.
+- AWS networking and compute using **VPC and EC2**.
 - Container image management through **Amazon ECR**.
 - Docker-based application deployment.
 - Separate Docker Compose configurations for different deployment scenarios.
 - GitHub Actions CI/CD automation.
-- Code quality checks with SonarQube.
-- Vulnerability scanning with Trivy.
-- Dynamic security testing with OWASP ZAP.
+- Code quality checks with **SonarQube**.
+- Vulnerability scanning with **Trivy**.
+- Dynamic security testing with **OWASP ZAP**.
 - GitHub Actions to AWS authentication using **OIDC and IAM**.
 - Application health checks and smoke testing.
 - Controlled failure testing to validate deployment rollback.
@@ -131,19 +131,24 @@ The main focus is on **building and understanding systems**, not just completing
 
 I'm currently strengthening my fundamentals and going deeper into:
 
-**Linux & Bash**  
+### Linux & Bash
+
 Improving my command-line skills, shell scripting and Linux administration.
 
-**Docker & Containers**  
+### Docker & Containers
+
 Working with container images, Compose, networking, volumes and deployment patterns.
 
-**Kubernetes**  
+### Kubernetes
+
 Building a stronger understanding of container orchestration and Kubernetes operations.
 
-**Terraform & Ansible**  
+### Terraform & Ansible
+
 Improving my infrastructure provisioning and configuration-management skills.
 
-**AWS & DevOps**  
+### AWS & DevOps
+
 Continuing to work with cloud infrastructure, CI/CD, monitoring and DevSecOps practices.
 
 ---
