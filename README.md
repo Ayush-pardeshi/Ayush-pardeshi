@@ -1,6 +1,6 @@
 # Hi, I'm Ayush Pardeshi 👋
 
-**Entry-level Engineer | DevOps & Cloud**
+**Entry-level Engineer | DevOps, Cloud & Infrastructure**
 
 I'm a B.Tech Electrical Engineering graduate building my career around **DevOps, Cloud, Linux, CI/CD and infrastructure automation**.
 
@@ -34,7 +34,7 @@ Some of the work I handled included:
 - Working with DNS configuration and deployment troubleshooting.
 - Configuring and maintaining PostgreSQL databases.
 - Working with AWS infrastructure and security controls, including Security Groups and firewall-related configuration.
-- Gaining practical exposure to **NetBird VPN** for network connectivity.
+- Gaining practical exposure to NetBird VPN for network connectivity.
 
 The internship also gave me experience with the less visible parts of DevOps work — checking logs, troubleshooting failed deployments, understanding environment differences, and making sure an application is actually working after deployment.
 
@@ -53,18 +53,18 @@ The application uses **React for the frontend, FastAPI for the backend, and Post
 The project covers:
 
 - Infrastructure provisioning with **Terraform**.
-- AWS networking and compute using **VPC and EC2**.
+- AWS networking and compute using VPC and EC2.
 - Container image management through **Amazon ECR**.
 - Docker-based application deployment.
 - Separate Docker Compose configurations for different deployment scenarios.
 - GitHub Actions CI/CD automation.
-- Code quality checks with **SonarQube**.
-- Vulnerability scanning with **Trivy**.
-- Dynamic security testing with **OWASP ZAP**.
+- Code quality checks with SonarQube.
+- Vulnerability scanning with Trivy.
+- Dynamic security testing with OWASP ZAP.
 - GitHub Actions to AWS authentication using **OIDC and IAM**.
 - Application health checks and smoke testing.
 - Controlled failure testing to validate deployment rollback.
-- **CloudWatch** monitoring and container logging.
+- CloudWatch monitoring and container logging.
 - PostgreSQL backup and restore testing.
 - ECR image lifecycle management to retain recent images for rollback.
 
@@ -76,7 +76,7 @@ I also keep screenshots and configuration artifacts in the repository so that th
 
 ## 🧰 Technologies I Work With
 
-Rather than treating every tool as something I use at the same level, these are the areas I've been working with through internships, projects and hands-on practice.
+These are the technologies I've worked with through my internship, independent projects and hands-on practice.
 
 ### Cloud & Infrastructure
 
@@ -110,9 +110,9 @@ Rather than treating every tool as something I use at the same level, these are 
 
 ## 📂 What You'll Find Here
 
-This profile is gradually becoming a collection of my hands-on work rather than just a list of technologies.
+This profile is where I keep my hands-on **DevOps and cloud work, experiments, documentation and projects**.
 
-I'm using GitHub to keep track of:
+You'll find:
 
 - DevOps and cloud projects
 - Linux and Bash practice
@@ -129,7 +129,7 @@ The main focus is on **building and understanding systems**, not just completing
 
 ## 📚 Currently Learning
 
-I'm currently spending time strengthening my fundamentals and going deeper into:
+I'm currently strengthening my fundamentals and going deeper into:
 
 **Linux & Bash**  
 Improving my command-line skills, shell scripting and Linux administration.
